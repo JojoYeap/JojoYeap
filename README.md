@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">A software developer with a passion for software engineering and robotics</h3>
+<h1 align="left">Hi 👋, I'm Jonathan</h1>
+<h3 align="left">A software developer with a passion for software engineering and robotics</h3>
 
 - 🔭 I’m currently working on **Precision Assembly using Collaborative Robots**
 
-- 🌱 I’m currently learning **SLAM, Imitation Learning**
+- 🌱 I’m currently learning **React, SLAM, Imitation Learning**
 
 - 💬 Ask me about **ROS2, Arduino, ESP32, .NET**
 
