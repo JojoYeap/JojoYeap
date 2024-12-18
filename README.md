@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **ROS2, Arduino, ESP32, .NET**
 
-- 📫 How to reach me **jonathanyeap23@gmail.com**
-
 <p align="left">
 </p>
 
